@@ -1,4 +1,4 @@
-# Install script for directory: D:/PC/SP/Class 1/lab3_3
+# Install script for directory: D:/PC/SP/Class 1 (if-else statement)/lab3/lab3_3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/PC/SP/Class 1/lab3_3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/PC/SP/Class 1 (if-else statement)/lab3/lab3_3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

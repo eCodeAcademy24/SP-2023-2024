@@ -11,7 +11,35 @@
 //3322 123
 //Output
 //DA
+using namespace std;
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+    int prv, vtor;
+
+    cin >> prv >> vtor;
+
+    int tmpPrv = prv;
+    while (tmpPrv) {
+        int tmpVtor = vtor;
+        int flag = 0;
+        while (tmpVtor) {
+            if (tmpPrv % 10 == tmpVtor % 10) {
+                flag = 1;
+                break;
+            }
+
+            tmpVtor /= 10;
+        }
+
+        if (flag == 0) {
+            cout << "NE";
+            return 0;
+        }
+
+        tmpPrv /= 10;
+    }
+
+    cout << "DA";
     return 0;
 }

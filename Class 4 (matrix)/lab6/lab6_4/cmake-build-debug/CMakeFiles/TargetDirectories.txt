@@ -1,0 +1,3 @@
+D:/PC/SP/Class 4 (matrix)/lab6/lab6_4/cmake-build-debug/CMakeFiles/lab6_4.dir
+D:/PC/SP/Class 4 (matrix)/lab6/lab6_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PC/SP/Class 4 (matrix)/lab6/lab6_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

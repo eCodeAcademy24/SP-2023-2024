@@ -1,0 +1,3 @@
+D:/PC/SP/Class 5 (recursion)/lab8/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+D:/PC/SP/Class 5 (recursion)/lab8/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PC/SP/Class 5 (recursion)/lab8/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir

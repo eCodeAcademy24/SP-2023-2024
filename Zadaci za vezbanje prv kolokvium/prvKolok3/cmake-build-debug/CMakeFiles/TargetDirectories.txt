@@ -1,0 +1,3 @@
+D:/PC/SP/Zadaci za vezbanje prv kolokvium/prvKolok3/cmake-build-debug/CMakeFiles/prvKolok3.dir
+D:/PC/SP/Zadaci za vezbanje prv kolokvium/prvKolok3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PC/SP/Zadaci za vezbanje prv kolokvium/prvKolok3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
